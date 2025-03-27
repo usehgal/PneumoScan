@@ -117,6 +117,6 @@ chest_xray/
 
 ## 🏆 Contributors
 👨‍💻 **Utkarsh Sehgal**  
-📧 **Contact**: [LinkedIn](www.linkedin.com/in/utkarsh-sehgal/)
+📧 **Contact**: [LinkedIn](https://www.linkedin.com/in/utkarsh-sehgal)
 
 💡 If you find this project useful, don't forget to ⭐ **star the repository**! 🌟
