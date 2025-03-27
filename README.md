@@ -10,7 +10,7 @@
 
 The dataset used for training and evaluation is the **Chest X-Ray Images (Pneumonia)** dataset from Kaggle.
 
-📥 **Download Dataset**: [Chest X-Ray Dataset](https://www.kaggle.com/datasets)
+📥 **Download Dataset**: [Chest X-Ray Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ### Dataset Structure:
 ```
@@ -71,7 +71,7 @@ chest_xray/
 4️⃣ Open the generated **ngrok URL** to access the app.
 
 ### 🔹 Public Deployment on Hugging Face Spaces
-📍 **Live App**: [PneumoScan on Hugging Face](https://huggingface.co/spaces)
+📍 **Live App**: [PneumoScan on Hugging Face](https://huggingface.co/spaces/usehgal6/PneumoScan)
 
 ### Files Used in Deployment:
 - `app.py`: Streamlit application for pneumonia classification.
@@ -117,6 +117,6 @@ chest_xray/
 
 ## 🏆 Contributors
 👨‍💻 **Utkarsh Sehgal**  
-📧 **Contact**: [LinkedIn](https://linkedin.com)
+📧 **Contact**: [LinkedIn](www.linkedin.com/in/utkarsh-sehgal)
 
 💡 If you find this project useful, don't forget to ⭐ **star the repository**! 🌟
